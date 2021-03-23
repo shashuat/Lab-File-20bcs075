@@ -1,4 +1,4 @@
-// Program 58: Program to check prime or armstrong number using user defined function
+// Program 61: Program to check prime or armstrong number using user defined function
 
 #include <math.h>
 #include <stdio.h>
