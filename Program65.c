@@ -1,4 +1,4 @@
-// Program 61: Program to reverse a sentence using function
+// Program 65: Program to reverse a sentence using function
 
 #include <stdio.h>
 
