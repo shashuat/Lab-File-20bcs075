@@ -1,4 +1,4 @@
-// Program 98: Program to Remove all Characters in a String Except Alphabets
+// Program 95: Program to Remove all Characters in a String Except Alphabets
 
 #include <stdio.h>
 
