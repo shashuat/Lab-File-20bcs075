@@ -1,4 +1,4 @@
-
+// Program 9: Program to read number between 1-7 & display corresponding day of week
 
 #include <stdio.h>
 

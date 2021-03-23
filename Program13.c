@@ -1,4 +1,4 @@
-// Program to read lower case character and display it in upper case
+// Program 13: Program to read lower case character and display it in upper case
 
 #include<stdio.h>
 #include<string.h>

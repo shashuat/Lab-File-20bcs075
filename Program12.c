@@ -1,4 +1,4 @@
-// Program to print the relation between 2 numbers as equal to, less than or greater than
+// Program 12: Program to print the relation between 2 numbers as equal to, less than or greater than
 
 #include <stdio.h>
 
