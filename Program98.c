@@ -1,4 +1,4 @@
-// program 95: Program to print half pyramid
+// Program 98: Program to print half pyramid
 
 #include <stdio.h>
 
